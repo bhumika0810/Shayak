@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+llama-cpp-python
+faster-whisper
+huggingface_hub
+Pillow
+pytesseract
+requests
